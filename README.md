@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <video src="https://github.com/moching-ai-dev/moching/releases/download/v27.0.6-1/moching_demo.mp4" width="750" controls>
+  <video src="https://huggingface.co/mochingcode/moching/resolve/main/moching_demo.mp4" width="750" controls>
     Your browser does not support the video tag.
   </video>
 </p>
@@ -23,12 +23,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v27.0.6-1-2d6a4f?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-v26.9.5-1-2d6a4f?style=flat-square" alt="Version"/>
   <img src="https://img.shields.io/badge/native_tools-219-2d6a4f?style=flat-square" alt="219 Tools"/>
   <img src="https://img.shields.io/badge/platform-Windows_10%2B_·_macOS_12%2B-2d6a4f?style=flat-square" alt="Platform"/>
   <img src="https://img.shields.io/badge/license-Proprietary-red?style=flat-square" alt="License"/>
   <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/🌐_mochingcode.com-2d6a4f?style=flat-square" alt="Website"/></a>
-  <a href="https://ref.mochingcode.com"><img src="https://img.shields.io/badge/🎁_Refer_%241-ea580c?style=flat-square" alt="Referral"/></a>
+  <a href="https://ref.mochingcode.com"><img src="https://img.shields.io/badge/🎁_Refer_500K_Credits-ea580c?style=flat-square" alt="Referral"/></a>
 </p>
 
 ### Not a Coding Assistant. Not a Chatbot. A Digital Operator.
@@ -141,20 +141,20 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 ---
 
-## 📥 Download — v27.0.6-1
+## 📥 Download — v26.9.5-1
 
 | Platform | Link | Size |
 |----------|------|:----:|
-| Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 353 MB |
-| macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 445 MB |
+| Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 375 MB |
+| macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 794 MB |
 | All Platforms | [HuggingFace Mirror](https://huggingface.co/mochingcode/moching) | — |
 
 <details>
 <summary>🔐 Full SHA256 checksums</summary>
 
 ```
-Windows: 3e0060f22ba3eb601a18e5e2134b43449d2a04dacd964a72c2fd32d5bc34bb49
-macOS:   0d0fcace01e6e501f15582d56d2436bd39bdaa8a2c99f68b23e275c05dd370ff
+Windows: 9464fc6619cc16a3e4384004cb99452e2114ef7fc0219b72f2d724df81ba56f2
+macOS:   5f77372089943e1b3249f23e2513d6d1cc5948d5b36a86e6a5b5bdb8b7881773
 ```
 
 </details>
@@ -167,11 +167,11 @@ macOS:   0d0fcace01e6e501f15582d56d2436bd39bdaa8a2c99f68b23e275c05dd370ff
   <img src="assets/referral-landing.png" width="380" alt="Moching Referral Program"/>
 </p>
 
-**Refer a friend — you both earn $1.**
+**Refer a friend — you both get 500,000 Credits gifted.**
 
 1. Enter your username at [ref.mochingcode.com](https://ref.mochingcode.com)
 2. Get your unique referral link
-3. Share it → Friend signs up & activates → **You both get $1**
+3. Share it → Friend signs up & activates → **You both get 500,000 Credits**
 
 👉 **[Join the Referral Program →](https://ref.mochingcode.com)**
 
@@ -203,8 +203,8 @@ Moching asks: ***"What can I do for you?"***
 
 | Date | Version | Highlights |
 |------|---------|------------|
-| 2026-08-02 | v27.0.6-1 | Major AI upgrade. 17x performance boost. Enhanced stability. |
-| 2026-07-25 | v27.0.3 | Initial public release. 219 tools. Windows + macOS. |
+| 2026-09-05 | v26.9.5-1 | Latest release. Windows 26.9.5-1 · macOS 26.9.6. |
+| 2026-08-19 | v26.8.19-1 | First public GitHub release. 219 tools. Windows + macOS. |
 
 ---
 
