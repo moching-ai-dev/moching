@@ -135,7 +135,7 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 <div align="center">
 
-**No subscription. Pay as you go. From $1.**
+**No subscription. Pay as you go. From $5.**
 
 </div>
 
