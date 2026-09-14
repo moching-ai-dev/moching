@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v26.9.5-1-2d6a4f?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-v26.9.12-1-2d6a4f?style=flat-square" alt="Version"/>
   <img src="https://img.shields.io/badge/native_tools-219-2d6a4f?style=flat-square" alt="219 Tools"/>
   <img src="https://img.shields.io/badge/platform-Windows_10%2B_·_macOS_12%2B-2d6a4f?style=flat-square" alt="Platform"/>
   <img src="https://img.shields.io/badge/license-Proprietary-red?style=flat-square" alt="License"/>
@@ -141,7 +141,7 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 ---
 
-## 📥 Download — v26.9.5-1
+## 📥 Download — v26.9.12-1
 
 | Platform | Link | Size |
 |----------|------|:----:|
@@ -153,8 +153,8 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 <summary>🔐 Full SHA256 checksums</summary>
 
 ```
-Windows: 9464fc6619cc16a3e4384004cb99452e2114ef7fc0219b72f2d724df81ba56f2
-macOS:   5f77372089943e1b3249f23e2513d6d1cc5948d5b36a86e6a5b5bdb8b7881773
+Windows: 6e194066ff711fdb9c6dbe02bf2b5f52557f035bcb6f1f5c75a59e814e852524
+macOS:   85840a078601186a093f148237aff9f64a7fd15d5b7d1cb6fcbb3666a4fdea8b
 ```
 
 </details>
@@ -203,7 +203,7 @@ Moching asks: ***"What can I do for you?"***
 
 | Date | Version | Highlights |
 |------|---------|------------|
-| 2026-09-05 | v26.9.5-1 | Latest release. Windows 26.9.5-1 · macOS 26.9.6. |
+| 2026-09-05 | v26.9.12-1 | Latest release. Windows 26.9.12-1 · macOS 26.9.12. |
 | 2026-08-19 | v26.8.19-1 | First public GitHub release. 219 tools. Windows + macOS. |
 
 ---
