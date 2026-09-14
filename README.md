@@ -203,7 +203,7 @@ Moching asks: ***"What can I do for you?"***
 
 | Date | Version | Highlights |
 |------|---------|------------|
-| 2026-09-05 | v26.9.12-1 | Latest release. Windows 26.9.12-1 · macOS 26.9.12. |
+| 2026-09-14 | v26.9.12-1 | Latest release. Windows 26.9.12-1 · macOS 26.9.12. |
 | 2026-08-19 | v26.8.19-1 | First public GitHub release. 219 tools. Windows + macOS. |
 
 ---
