@@ -23,8 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v26.9.12-1-2d6a4f?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/github/v/release/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=version" alt="Version"/>
   <img src="https://img.shields.io/badge/native_tools-219-2d6a4f?style=flat-square" alt="219 Tools"/>
+  <img src="https://img.shields.io/github/stars/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=%E2%AD%90%20stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/downloads/moching-ai-dev/moching/total?style=flat-square&color=2d6a4f&label=downloads" alt="Downloads"/>
+  <img src="https://img.shields.io/github/release-date/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=released" alt="Released"/>
   <img src="https://img.shields.io/badge/platform-Windows_10%2B_·_macOS_12%2B-2d6a4f?style=flat-square" alt="Platform"/>
   <img src="https://img.shields.io/badge/license-Proprietary-red?style=flat-square" alt="License"/>
   <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/🌐_mochingcode.com-2d6a4f?style=flat-square" alt="Website"/></a>
@@ -141,7 +144,7 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 ---
 
-## 📥 Download — v26.9.12-1
+## 📥 Download — v26.9.16-1
 
 | Platform | Link | Size |
 |----------|------|:----:|
@@ -153,8 +156,8 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 <summary>🔐 Full SHA256 checksums</summary>
 
 ```
-Windows: 6e194066ff711fdb9c6dbe02bf2b5f52557f035bcb6f1f5c75a59e814e852524
-macOS:   85840a078601186a093f148237aff9f64a7fd15d5b7d1cb6fcbb3666a4fdea8b
+Windows: 994d21431e51ecdf8b04fdf53ca4bcba5ec0625e144f9b5c31015e71a09af065
+macOS:   9d0c97d0a5a119c3d0f7fa0062f81e911734c737018d27d1f7e93d6b4f94816d
 ```
 
 </details>
@@ -203,7 +206,7 @@ Moching asks: ***"What can I do for you?"***
 
 | Date | Version | Highlights |
 |------|---------|------------|
-| 2026-09-14 | v26.9.12-1 | Latest release. Windows 26.9.12-1 · macOS 26.9.12. |
+| 2026-09-14 | v26.9.16-1 | Latest release. Windows 26.9.16-1 · macOS 26.9.16. |
 | 2026-08-19 | v26.8.19-1 | First public GitHub release. 219 tools. Windows + macOS. |
 
 ---
