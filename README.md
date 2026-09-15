@@ -1,3 +1,5 @@
+<p align="right"><sub>English · <a href="README.zh-CN.md">简体中文</a></sub></p>
+
 # 🏔️ Moching — AI Agent for Your Entire PC
 
 <p align="center">
