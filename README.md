@@ -11,6 +11,8 @@
 </p>
 <p align="center"><sub>▲ Moching in action — 25s product demo</sub></p>
 
+<p align="center"><b>⭐ <a href="https://github.com/moching-ai-dev/moching">Star us on GitHub</a> — every star helps Moching reach more developers</b></p>
+
 
 <p align="center">
   <a href="https://github.com/moching-ai-dev/moching/releases/latest">
@@ -220,5 +222,7 @@ Moching asks: ***"What can I do for you?"***
 © 2026 Moching. Proprietary. All Rights Reserved.
 
 [Website](https://mochingcode.com) · [HuggingFace](https://huggingface.co/mochingcode/moching) · [Referral](https://ref.mochingcode.com)
+
+⭐ <b>Star this repo</b> — it takes 1 second and helps more developers discover Moching.
 
 </div>
