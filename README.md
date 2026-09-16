@@ -3,6 +3,11 @@
 # 🏔️ Moching — AI Agent for Your Entire PC
 
 <p align="center">
+  <a href="https://huggingface.co/spaces/mochingcode/moching"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-yellow" alt="Hugging Face Space"/></a>
+  <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-mochingcode.com-blue" alt="Website"/></a>
+</p>
+
+<p align="center">
   <img src="assets/hero-capability-matrix.jpg" width="750" alt="Moching — 219 Native Tools"/>
 </p>
 
