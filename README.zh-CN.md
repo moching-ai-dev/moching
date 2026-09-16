@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://huggingface.co/spaces/mochingcode/moching"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-yellow" alt="Hugging Face Space"/></a>
+  <a href="https://mochingcode.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-mochingcode.com-blue" alt="Website"/></a>
+</p>
+
 # 🏔️ 墨青 Moching — 你的整台电脑的 AI Agent
 
 <p align="center">
