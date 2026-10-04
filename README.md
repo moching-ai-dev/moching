@@ -153,20 +153,20 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 ---
 
-## 📥 Download — v26.9.16-1
+## 📥 Download — v26.9.30-1
 
 | Platform | Link | Size |
 |----------|------|:----:|
-| Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 375 MB |
-| macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 794 MB |
+| Windows x64 | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 374 MB |
+| macOS (Apple Silicon) | [GitHub Releases](https://github.com/moching-ai-dev/moching/releases/latest) | 849 MB |
 | All Platforms | [HuggingFace Mirror](https://huggingface.co/mochingcode/moching) | — |
 
 <details>
 <summary>🔐 Full SHA256 checksums</summary>
 
 ```
-Windows: 994d21431e51ecdf8b04fdf53ca4bcba5ec0625e144f9b5c31015e71a09af065
-macOS:   9d0c97d0a5a119c3d0f7fa0062f81e911734c737018d27d1f7e93d6b4f94816d
+Windows: 9c95b8e6c58439c77d823fd0aa8229fb7c4ddc784d08f1f0cfa7b88c382c5940
+macOS:   f1bd160ccb6309ccb23faaf2d68ef8bcdff7afca9465a084f90c561af89ef7df
 ```
 
 </details>
@@ -215,7 +215,8 @@ Moching asks: ***"What can I do for you?"***
 
 | Date | Version | Highlights |
 |------|---------|------------|
-| 2026-09-14 | v26.9.16-1 | Latest release. Windows 26.9.16-1 · macOS 26.9.16. |
+| 2026-10-04 | v26.9.30-1 | Latest release. Windows 26.9.30-1 · macOS 26.10.1. More reliable long tasks, refined screen & keyboard/mouse control, improved runtime logs and link stability. |
+| 2026-09-14 | v26.9.16-1 | Windows 26.9.16-1 · macOS 26.9.16. |
 | 2026-08-19 | v26.8.19-1 | First public GitHub release. 219 tools. Windows + macOS. |
 
 ---
