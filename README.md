@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <video src="https://huggingface.co/mochingcode/moching/resolve/main/moching_demo.mp4" width="750" controls>
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://huggingface.co/spaces/mochingcode/moching">
+    <img src="https://img.shields.io/badge/%E2%96%B6_Watch_the_25s_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Watch the Moching demo"/>
+  </a>
 </p>
-<p align="center"><sub>▲ Moching in action — 25s product demo</sub></p>
+<p align="center"><sub>▶ Click to watch Moching operate a real desktop — 25s product demo</sub></p>
 
 <p align="center"><b>⭐ <a href="https://github.com/moching-ai-dev/moching">Star us on GitHub</a> — every star helps Moching reach more developers</b></p>
 
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/github/v/release/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=version" alt="Version"/>
   <img src="https://img.shields.io/badge/native_tools-219-2d6a4f?style=flat-square" alt="219 Tools"/>
   <img src="https://img.shields.io/github/stars/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=%E2%AD%90%20stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/downloads/moching-ai-dev/moching/total?style=flat-square&color=2d6a4f&label=downloads" alt="Downloads"/>
   <img src="https://img.shields.io/github/release-date/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=released" alt="Released"/>
   <img src="https://img.shields.io/badge/platform-Windows_10%2B_·_macOS_12%2B-2d6a4f?style=flat-square" alt="Platform"/>
   <img src="https://img.shields.io/badge/license-Proprietary-red?style=flat-square" alt="License"/>
@@ -147,7 +146,7 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 
 <div align="center">
 
-**No subscription. Pay as you go. From $5.**
+**Free for 14 days on sign-up — bring your own model key.**
 
 </div>
 
@@ -179,15 +178,15 @@ macOS:   f1bd160ccb6309ccb23faaf2d68ef8bcdff7afca9465a084f90c561af89ef7df
   <img src="assets/referral-landing.png" width="380" alt="Moching Referral Program"/>
 </p>
 
-**Refer a friend — you both get 500,000 Credits gifted.**
+**Refer a friend — you both get 500,000 bonus Credits.**
 
 1. Enter your username at [ref.mochingcode.com](https://ref.mochingcode.com)
 2. Get your unique referral link
-3. Share it → Friend signs up & activates → **You both get 500,000 Credits**
+3. Share it → Friend signs up **and completes a first top-up** → **You both get 500,000 Credits**
 
 👉 **[Join the Referral Program →](https://ref.mochingcode.com)**
 
-*The only AI agent that pays YOU to share it.*
+*Bonus Credits are gifted rewards (not cash) and don't count toward the top-up threshold.*
 
 ---
 
