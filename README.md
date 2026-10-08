@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hero-capability-matrix.jpg" width="750" alt="Moching — 219 Native Tools"/>
+  <img src="assets/hero-capability-matrix.jpg" width="750" alt="Moching — 290+ Native Tools"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=version" alt="Version"/>
-  <img src="https://img.shields.io/badge/native_tools-219-2d6a4f?style=flat-square" alt="219 Tools"/>
+  <img src="https://img.shields.io/badge/native_tools-290%2B-2d6a4f?style=flat-square" alt="290+ Tools"/>
   <img src="https://img.shields.io/github/stars/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=%E2%AD%90%20stars" alt="Stars"/>
   <img src="https://img.shields.io/github/release-date/moching-ai-dev/moching?style=flat-square&color=2d6a4f&label=released" alt="Released"/>
   <img src="https://img.shields.io/badge/platform-Windows_10%2B_·_macOS_12%2B-2d6a4f?style=flat-square" alt="Platform"/>
@@ -54,7 +54,7 @@ Most AI tools live inside a browser tab. **Moching lives on your desktop** — i
 
 ---
 
-## 🧠 Capability Matrix — 219 Native Tools × 12 Domains
+## 🧠 Capability Matrix — 290+ Native Tools × 12 Domains
 
 | Domain | Tools | What It Does |
 |---|---|---|
@@ -123,13 +123,13 @@ This is the **Perceive → Decide → Execute → Verify** cycle that no other p
 │  │       Python Runtime (Embedded)       │   │
 │  │  ┌────────┐ ┌────────┐ ┌───────────┐  │   │
 │  │  │Agent   │ │Tools   │ │Knowledge  │  │   │
-│  │  │Engine  │ │(219)   │ │Store      │  │   │
+│  │  │Engine  │ │(290+)  │ │Store      │  │   │
 │  │  └────────┘ └────────┘ └───────────┘  │   │
 │  └───────────────────────────────────────┘   │
 └──────────────────────────────────────────────┘
 ```
 
-**Rust for speed. Python for flexibility. 219 tools for capability.**
+**Rust for speed. Python for flexibility. 290+ tools for capability.**
 
 ---
 
@@ -214,10 +214,10 @@ Moching asks: ***"What can I do for you?"***
 
 | Date | Version | Highlights |
 |------|---------|------------|
-| 2026-10-08 | v26.10.6-1 | Latest release. Windows 26.10.6-1 · macOS 26.10.6. Upgraded large-file Excel data reading, LSP capability upgrade, multi-task execution more stable and faster. 219 tools. |
+| 2026-10-08 | v26.10.6-1 | Latest release. Windows 26.10.6-1 · macOS 26.10.6. Upgraded large-file Excel data reading, LSP capability upgrade, multi-task execution more stable and faster. 290+ built-in tools · 12 domains. |
 | 2026-10-04 | v26.9.30-1 | Windows 26.9.30-1 · macOS 26.10.1. More reliable long tasks, refined screen & keyboard/mouse control, improved runtime logs and link stability. |
 | 2026-09-14 | v26.9.16-1 | Windows 26.9.16-1 · macOS 26.9.16. |
-| 2026-08-19 | v26.8.19-1 | First public GitHub release. 219 tools. Windows + macOS. |
+| 2026-08-19 | v26.8.19-1 | First public GitHub release. Windows + macOS. |
 
 ---
 
